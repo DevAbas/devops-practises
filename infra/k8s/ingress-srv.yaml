@@ -12,4 +12,4 @@ spec:
           - path: /posts
             backend:
               serviceName: posts-clusterip-srv
-              servicePort: 4001
+              servicePort: 4000
